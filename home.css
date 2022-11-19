@@ -181,8 +181,8 @@ a.home-link {
   height: 24px;
 }
 .home-banner {
-  width: 100%;
-  height: 480px;
+  /*width: 100%;
+  height: 480px;*/
   display: flex;
   align-self: stretch;
   min-height: 480px;
