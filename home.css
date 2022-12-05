@@ -329,6 +329,7 @@ a.home-link {
   padding-right: 48px;
   justify-content: space-between;
 }
+.media-right{order:1;}
 .home-image2 {
   /*width: 300px;
   height: 300px;*/
@@ -442,6 +443,7 @@ a.home-link {
   .home-banner1 {
     flex-direction: column;
   }
+  .media-right{order:0;}
   .home-image2 {
     width: 288px;
     /*height: 288px;*/
