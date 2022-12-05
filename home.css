@@ -190,7 +190,8 @@ a.home-link {
   flex-direction: column;
   vertical-align: middle;
   background-size: cover;
-  background-image: url("public/playground_assets/banner-1500w.jpg");
+  /*background-image: url("public/playground_assets/banner-1500w.jpg");*/
+  background-image: url("https://res.cloudinary.com/exergyglobal/image/upload/w_1500/exergy_linkedin_cover_option_6.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
