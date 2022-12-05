@@ -444,7 +444,7 @@ a.home-link {
   }
   .home-image2 {
     width: 288px;
-    height: 288px;
+    /*height: 288px;*/
   }
   .home-container2 {
     align-items: center;
@@ -552,7 +552,7 @@ a.home-link {
   }
   .home-image2 {
     width: 192px;
-    height: 192px;
+    /*height: 192px;*/
     padding-top: var(--dl-space-space-doubleunit);
     padding-left: var(--dl-space-space-doubleunit);
     padding-right: var(--dl-space-space-doubleunit);
