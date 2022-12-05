@@ -330,8 +330,8 @@ a.home-link {
   justify-content: space-between;
 }
 .home-image2 {
-  width: 300px;
-  /*height: 300px;*/
+  /*width: 300px;
+  height: 300px;*/
   object-fit: cover;
   flex-shrink: 0;
 }
