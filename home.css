@@ -201,6 +201,7 @@ a.home-link {
   text-align: center;
   padding-top: var(--dl-space-space-tripleunit);
   margin-bottom: var(--dl-space-space-unit);
+  color:white;
 }
 .home-text03 {
   color: #e7a434;
